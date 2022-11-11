@@ -1,0 +1,64 @@
+{
+  "categorias": [
+    {
+      "categoria": "Finanzas",
+      "id": 1
+    },
+    {
+      "categoria": "Legal",
+      "id": 2
+    },
+    {
+      "categoria": "Informatica",
+      "id": 3
+    },
+    {
+      "categoria": "Recursos Humanos",
+      "id": 4
+    }
+  ],
+  "productos": [
+    {
+      "producto": "Computadora",
+      "precio": "2500",
+      "categoriaId": 3,
+      "id": 1
+    },
+    {
+      "producto": "Teclado",
+      "precio": "65",
+      "categoriaId": 3,
+      "id": 2
+    },
+    {
+      "producto": "Mouse",
+      "precio": "45",
+      "categoriaId": 3,
+      "id": 3
+    },
+    {
+      "producto": "Menoria Ram",
+      "precio": "250",
+      "categoriaId": 3,
+      "id": 4
+    },
+    {
+      "producto": "Parlantes",
+      "precio": "380",
+      "categoriaId": 3,
+      "id": 5
+    },
+    {
+      "producto": "Menoria Ram",
+      "precio": "250",
+      "categoriaId": 3,
+      "id": 4
+    },
+    {
+      "producto": "Parlantes",
+      "precio": "380",
+      "categoriaId": 3,
+      "id": 5
+    }
+  ]
+}
